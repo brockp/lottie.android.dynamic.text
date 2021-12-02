@@ -1,0 +1,2 @@
+ct/suzy/lottiedynamictext/BuildConfig.java
+ ct.suzy.lottiedynamictext.BuildConfig

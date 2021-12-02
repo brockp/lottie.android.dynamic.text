@@ -1,0 +1,46 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ct.suzy.lottiedynamictext"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/brockprescott/AndroidStudioProjects/lottie_test/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/brockprescott/AndroidStudioProjects/lottie_test/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/brockprescott/AndroidStudioProjects/lottie_test/app/src/main/AndroidManifest.xml:5:5-18:19
+12        android:allowBackup="true"
+12-->/Users/brockprescott/AndroidStudioProjects/lottie_test/app/src/main/AndroidManifest.xml:6:13-39
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.0.1] /Users/brockprescott/.gradle/caches/transforms-3/269ce92df95d562bf86c06150d46e51f/transformed/core-1.0.1/AndroidManifest.xml:22:18-86
+14        android:debuggable="true"
+15        android:label="@string/app_name"
+15-->/Users/brockprescott/AndroidStudioProjects/lottie_test/app/src/main/AndroidManifest.xml:7:13-45
+16        android:supportsRtl="true"
+16-->/Users/brockprescott/AndroidStudioProjects/lottie_test/app/src/main/AndroidManifest.xml:8:13-39
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->/Users/brockprescott/AndroidStudioProjects/lottie_test/app/src/main/AndroidManifest.xml:9:13-44
+19        <activity
+19-->/Users/brockprescott/AndroidStudioProjects/lottie_test/app/src/main/AndroidManifest.xml:10:9-17:20
+20            android:name="ct.suzy.lottiedynamictext.MainActivity"
+20-->/Users/brockprescott/AndroidStudioProjects/lottie_test/app/src/main/AndroidManifest.xml:10:19-47
+21            android:exported="true" >
+21-->/Users/brockprescott/AndroidStudioProjects/lottie_test/app/src/main/AndroidManifest.xml:11:13-36
+22            <intent-filter>
+22-->/Users/brockprescott/AndroidStudioProjects/lottie_test/app/src/main/AndroidManifest.xml:12:13-16:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/Users/brockprescott/AndroidStudioProjects/lottie_test/app/src/main/AndroidManifest.xml:13:17-68
+23-->/Users/brockprescott/AndroidStudioProjects/lottie_test/app/src/main/AndroidManifest.xml:13:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/Users/brockprescott/AndroidStudioProjects/lottie_test/app/src/main/AndroidManifest.xml:15:17-76
+25-->/Users/brockprescott/AndroidStudioProjects/lottie_test/app/src/main/AndroidManifest.xml:15:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>
