@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml:1:11-38
+		INJECTED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml
+		INJECTED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml:1:1-5:12
+application
+ADDED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml:3:5-20
+uses-sdk
+INJECTED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml
+INJECTED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml
+INJECTED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml
+INJECTED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml
+		ADDED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml
+		INJECTED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml
+		ADDED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml
+		INJECTED from /Users/brockprescott/AndroidStudioProjects/lottie_test/lottie/src/main/AndroidManifest.xml

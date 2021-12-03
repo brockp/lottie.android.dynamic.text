@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+attr? lottie_autoPlay
+attr? lottie_colorFilter
+attr? lottie_enableMergePathsForKitKatAndAbove
+attr? lottie_fileName
+attr? lottie_imageAssetsFolder
+attr? lottie_loop
+attr? lottie_progress
+attr? lottie_rawRes
+attr? lottie_renderMode
+attr? lottie_repeatCount
+attr? lottie_repeatMode
+attr? lottie_scale
+attr? lottie_speed
+attr? lottie_url
+id automatic
+id hardware
+id lottie_layer_name
+id restart
+id reverse
+id software
+styleable LottieAnimationView lottie_fileName lottie_rawRes lottie_url lottie_autoPlay lottie_loop lottie_repeatMode lottie_repeatCount lottie_imageAssetsFolder lottie_progress lottie_enableMergePathsForKitKatAndAbove lottie_colorFilter lottie_scale lottie_speed lottie_renderMode

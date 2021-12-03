@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/brockprescott/Downloads/lottie_text_delegate_test/lottie_test/lottie/build/intermediates/merged_res/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/brockprescott/.gradle/caches/transforms-3/3c55fd09cfdfa750852699d3ce8fa033/transformed/appcompat-1.0.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/brockprescott/Downloads/lottie_text_delegate_test/lottie_test/lottie/build/intermediates/merged_res/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/brockprescott/.gradle/caches/transforms-3/3c55fd09cfdfa750852699d3ce8fa033/transformed/appcompat-1.0.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/brockprescott/Downloads/lottie_text_delegate_test/lottie_test/lottie/build/intermediates/merged_res/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/brockprescott/.gradle/caches/transforms-3/3c55fd09cfdfa750852699d3ce8fa033/transformed/appcompat-1.0.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/brockprescott/Downloads/lottie_text_delegate_test/lottie_test/lottie/build/intermediates/merged_res/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/brockprescott/.gradle/caches/transforms-3/3c55fd09cfdfa750852699d3ce8fa033/transformed/appcompat-1.0.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/brockprescott/Downloads/lottie_text_delegate_test/lottie_test/lottie/build/intermediates/merged_res/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/brockprescott/.gradle/caches/transforms-3/3c55fd09cfdfa750852699d3ce8fa033/transformed/appcompat-1.0.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/brockprescott/Downloads/lottie_text_delegate_test/lottie_test/lottie/build/intermediates/merged_res/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/brockprescott/.gradle/caches/transforms-3/3c55fd09cfdfa750852699d3ce8fa033/transformed/appcompat-1.0.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/brockprescott/Downloads/lottie_text_delegate_test/lottie_test/lottie/build/intermediates/merged_res/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/brockprescott/.gradle/caches/transforms-3/3c55fd09cfdfa750852699d3ce8fa033/transformed/appcompat-1.0.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/brockprescott/Downloads/lottie_text_delegate_test/lottie_test/lottie/build/intermediates/merged_res/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/brockprescott/.gradle/caches/transforms-3/3c55fd09cfdfa750852699d3ce8fa033/transformed/appcompat-1.0.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/brockprescott/Downloads/lottie_text_delegate_test/lottie_test/lottie/build/intermediates/merged_res/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/brockprescott/.gradle/caches/transforms-3/3c55fd09cfdfa750852699d3ce8fa033/transformed/appcompat-1.0.0/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

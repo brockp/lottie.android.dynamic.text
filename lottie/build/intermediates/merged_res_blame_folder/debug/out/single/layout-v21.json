@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/brockprescott/Downloads/lottie_text_delegate_test/lottie_test/lottie/build/intermediates/merged_res/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/brockprescott/.gradle/caches/transforms-3/4506ed2ab6d7f628e335887dd21c4366/transformed/core-1.0.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/brockprescott/Downloads/lottie_text_delegate_test/lottie_test/lottie/build/intermediates/merged_res/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/brockprescott/.gradle/caches/transforms-3/4506ed2ab6d7f628e335887dd21c4366/transformed/core-1.0.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/brockprescott/Downloads/lottie_text_delegate_test/lottie_test/lottie/build/intermediates/merged_res/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/brockprescott/.gradle/caches/transforms-3/4506ed2ab6d7f628e335887dd21c4366/transformed/core-1.0.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/brockprescott/Downloads/lottie_text_delegate_test/lottie_test/lottie/build/intermediates/merged_res/debug/layout-v21/notification_action.xml",
+        "source": "/Users/brockprescott/.gradle/caches/transforms-3/4506ed2ab6d7f628e335887dd21c4366/transformed/core-1.0.0/res/layout-v21/notification_action.xml"
+    }
+]
